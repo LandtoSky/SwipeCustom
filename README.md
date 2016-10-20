@@ -1,6 +1,6 @@
 TinderSimpleSwipeCards
 ======================
-![alt tag](http://imgur.com/4bYw12e.gif)
+![alt tag](https://cloud.githubusercontent.com/assets/17247515/19559125/90227b7a-96ce-11e6-8b9a-04ffc2fe2e7e.png
 
 ### This is for maximum customizability and / or learning purposes, not a pod or drop-in solution
 
